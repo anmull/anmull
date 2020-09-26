@@ -1,6 +1,6 @@
 👨‍💻 I primarily write Python and C++
 
-💪 I run Void Linux with dwm/i3/KDE and macOS
+💪 I run macOS and Void Linux with dwm/i3/KDE
 
 🤯 I always know where my towel is!
 
